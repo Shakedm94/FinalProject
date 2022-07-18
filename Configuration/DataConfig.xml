@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <!-- timeout -->
+    <Timeout>5</Timeout>
+
+    <!-- general -->
+    <PlatformName>mobile</PlatformName>
+
+    <!-- web -->
+    <BrowserName>chrome</BrowserName>
+    <url>https://www.saucedemo.com/</url>
+    <ImageRepo>c:\\Automation\\FinalProject\\ImageRepository\\</ImageRepo>
+
+    <!-- Mobile -->
+    <UDID>RF8R42F7JEN</UDID>
+    <AppPackage>com.shivgadhia.android.ukMortgageCalc</AppPackage>
+    <AppActivity>.MainActivity</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+
+
+
+</Enviroment>

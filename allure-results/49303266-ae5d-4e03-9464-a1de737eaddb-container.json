@@ -1,0 +1,1 @@
+{"uuid":"49303266-ae5d-4e03-9464-a1de737eaddb","name":"sanity.MortgageMobile","children":["8fe89f8b-358d-46e8-98ba-b05a08baf94d"],"befores":[{"name":"startSession","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1653930281699,"stop":1653930311811}],"afters":[],"links":[],"start":1653930281625,"stop":1653930323257}
